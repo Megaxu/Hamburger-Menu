@@ -5,18 +5,3 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-
-### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.wasm
-*.wat
-*.xhtml
